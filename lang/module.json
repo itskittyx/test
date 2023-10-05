@@ -1,0 +1,21 @@
+{
+    "PREFIX": "&6&lМОДУЛИ:&f",
+    "MODULE_ENABLE_USE": "$PREFIX Используйте: &e/module enable <модуль>",
+    "MODULE_NOT_FOUND": "$PREFIX Модуль не найден или не существует.",
+    "MODULE_ENABLED": "$PREFIX Модуль уже &aвключен.",
+    "MODULE_ENABLE": "$PREFIX Модуль %s v%s успешно &aвключен.",
+    "MODULE_DISABLE_USE": "$PREFIX Используйте: &e/module disable <модуль>",
+    "MODULE_DISABLED": "$PREFIX Модуль отключен, но ещё не отгружен.",
+    "MODULE_DISABLE": "$PREFIX Модуль %s v%s был &cотключен.",
+    "MODULE_HELP": [
+        "$PREFIX Список доступных команд:",
+        "   &e/module load <файл/*> &8- &fЗагрузить модуль",
+        "   &e/module unload <модуль/*> &8- &fОтключить и выгрузить модуль",
+        "",
+        "  &e/module enable <модуль> &8- &fВключить модуль",
+        "  &e/module disable <модуль> &8- &fОтключить модуль",
+        "", 
+        "  &e/module info <модуль> &8- &fИнформация о модуле",
+        "  &e/module list &8- &fСписок модулей Bungee"
+    ]
+}
